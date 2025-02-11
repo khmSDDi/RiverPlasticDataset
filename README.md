@@ -2,7 +2,9 @@
 
 Paper : Available soon!
 
-Version 1 - Merged [Indonesia, Vietnam, The Netherlands]
+Version 1 - Merged
+
+Locations: Indonesia, Vietnam, The Netherlands
 
 Classes: 13
 
