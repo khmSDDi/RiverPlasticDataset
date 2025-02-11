@@ -2,7 +2,7 @@
 
 Paper : Available soon!
 
-Version 1 - Merged
+Version 1 - Merged dataset
 
 Locations: Indonesia, Vietnam, The Netherlands
 
