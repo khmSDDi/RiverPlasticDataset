@@ -1,6 +1,7 @@
 # RIVER PLASTIC DATASET
 
-Paper available soon!
+Preprint: Khim Cathleen Saddi, Tim van Emmerik, Domenico Miglino, et al. Exploring the Transferability of Image-based algorithms for River Plastic Detection: The Value of Small Mix Datasets. ESS Open Archive . April 21, 2025.
+DOI: 10.22541/essoar.174526454.42643146/v1
 
 ## Merged dataset - version 1
 
