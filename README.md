@@ -20,7 +20,9 @@ Saddi, K. C., van Emmerik, T. H. M., Miglino, D., Poggi, M., Isgrò, F., Tassero
 ## Original dataset source (existing labels were updated in this work)
 
 Indonesia - Schreyers, L., Bui, K. & van Emmerik, T. (2022). Drone images over the Saigon river - Hyacinth & Plastic patches. doi.org/10.4121/21648152.v1
+
 Vietnam - van Lieshout, C., van Oeveren, K., van Emmerik, T., & Postma, E. (2020). Automated river plastic monitoring using deep learning and cameras. Earth and space science, 7(8), e2019EA000960.
+
 The Netherlands (P. Tasseron)
 
 
